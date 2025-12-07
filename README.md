@@ -36,7 +36,7 @@ Welcome to my little corner of GitHub! I'm an A/V tech and low voltage electrici
 
 [![Email](https://img.shields.io/badge/Email-austin@10desires.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:austin@10desires.xyz)
 [![Instagram](https://img.shields.io/badge/Instagram-@10desires-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/10desires)
-[![Discord](https://img.shields.io/badge/Discord-10desires-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-10desires-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com](https://discord.com/users/340538806908354562))
 
 ---
 
