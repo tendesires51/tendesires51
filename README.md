@@ -14,14 +14,6 @@ Welcome to my little corner of GitHub! I'm an A/V tech and low voltage electrici
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tendesires51&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## A Little More About Me
 
 - **Day job:** A/V Tech & Low Voltage Electrician
